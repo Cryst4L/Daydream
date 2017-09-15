@@ -15,6 +15,9 @@ Dependencies
 - Python (optional) for dowloading the MNIST dataset ```[sudo apt-get install python3.5] ```
 - GNUPlot (optional) for displaying the parameters while training the RBM. ```[sudo apt-get install gnuplot]```
 
+<p align="center">
+  <img src="https://github.com/Cryst4L/Blazing-GEMM/blob/master/results.png"/>
+</p>
 
 And here's how to build the project:
 ```sh
