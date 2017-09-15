@@ -16,7 +16,7 @@ Dependencies
 - GNUPlot (optional) for displaying the parameters while training the RBM. ```[sudo apt-get install gnuplot]```
 
 <p align="center">
-  <img src="https://github.com/Cryst4L/Blazing-GEMM/blob/master/results.png"/>
+  <img src="https://github.com/Cryst4L/Daydream/blob/master/results.png"/>
 </p>
 
 And here's how to build the project:
