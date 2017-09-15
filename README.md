@@ -15,9 +15,9 @@ __Daydream__ is an Eigen3 implementation of Restricted Boltzmann Machines. It is
 Dependencies
 ------------
 
-- Eigen3 (required) a C++ based Linear Algebra library. ```[sudo apt-get install libeigen3-dev] ```
-- Python (optional) for dowloading the MNIST dataset. ```[sudo apt-get install python3.5] ```
-- GNUPlot (optional) for displaying the parameters while training the RBM. ```[sudo apt-get install gnuplot]```
+- Eigen3 (required) a C++ based Linear Algebra library: ```[sudo apt-get install libeigen3-dev] ```
+- Python (optional) for dowloading the MNIST dataset: ```[sudo apt-get install python3.5] ```
+- GNUPlot (optional) for displaying the parameters while training the RBM: ```[sudo apt-get install gnuplot]```
 
 And here's how to build the project:
 ```sh
@@ -27,5 +27,5 @@ make
 ```
 Copyright
 ----------
-This project is released under the MIT license. Enjoy ;)
+This project is released under the MIT license. Enjoy :)
 
