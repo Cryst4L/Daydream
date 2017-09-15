@@ -17,13 +17,11 @@ Dependencies
 
 
 And here's how to build the project:
-
 ```sh
 mkdir build && cd build
 cmake ..
 make
 ```
-
 Copyright
 ----------
 This project is released under the MIT license. Enjoy ;)
