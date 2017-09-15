@@ -1,7 +1,7 @@
 Daydream
 ========
 
-The __Restricted Boltzmann Machine__ is one of the most fundamental and insightful Machine Learning models. 
+The __Restricted Boltzmann Machine__ is one of the most fundamental and insightful Machine Learning model. 
 It aims to capture the underlying distribution of the data in a factorized manner by relying on a Graph and an Energy Function which measures the likelyhood of a configuration according to Statistical Mechanics root concepts. 
 
 __Eigen3__ is a [C++ template based library](ttp://eigen.tuxfamily.org/index.php?title=Main_Page) for Linear Algebra, that is widely use for its speed and memory efficiency.
