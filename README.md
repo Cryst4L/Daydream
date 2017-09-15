@@ -8,16 +8,16 @@ __Eigen3__ is a [C++ template based library](ttp://eigen.tuxfamily.org/index.php
 
 __Daydream__ is an Eigen3 implementation of Restricted Boltzmann Machines. It is structured as a library, and thus could be extended to a whole Energy Based Model library. 
 
-Dependencies
-------------
-
-- Eigen3 (required) a C++ based Linear Algebra library ```[sudo apt-get install libeigen3-dev] ```
-- Python (optional) for dowloading the MNIST dataset ```[sudo apt-get install python3.5] ```
-- GNUPlot (optional) for displaying the parameters while training the RBM. ```[sudo apt-get install gnuplot]```
-
 <p align="center">
   <img src="https://github.com/Cryst4L/Daydream/blob/master/example.png"/>
 </p>
+
+Dependencies
+------------
+
+- Eigen3 (required) a C++ based Linear Algebra library. ```[sudo apt-get install libeigen3-dev] ```
+- Python (optional) for dowloading the MNIST dataset. ```[sudo apt-get install python3.5] ```
+- GNUPlot (optional) for displaying the parameters while training the RBM. ```[sudo apt-get install gnuplot]```
 
 And here's how to build the project:
 ```sh
